@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <dataInicio>03-21</dataInicio>
+        <dataFim>04-19</dataFim>
+        <descricao>Arianos são corajosos, dinâmicos e energéticos.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <dataInicio>04-20</dataInicio>
+        <dataFim>05-20</dataFim>
+        <descricao>Os taurinos são estáveis, pacientes e persistentes.</descricao>
+    </signo>
+    <!-- Adicione outros signos -->
+</signos>
